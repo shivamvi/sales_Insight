@@ -2,7 +2,7 @@
 
 ## Data Exploratory analysis with SQL
 
-## 1. Show all Customer and Transaction records
+#### 1. Show all Customer and Transaction records
 SELECT * FROM sales.customer;
 SELECT * FROM sales.transactions;
 

@@ -3,8 +3,8 @@
 ## Data Exploratory analysis with SQL
 
 #### 1. Show all Customer and Transaction records
-SELECT * FROM sales.customer;
-SELECT * FROM sales.transactions;
+> SELECT * FROM sales.customer;
+> SELECT * FROM sales.transactions;
 
 #### 2. Show total customers
 SELECT count(*) FROM sales.customers;

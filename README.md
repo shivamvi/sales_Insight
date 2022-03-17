@@ -1,6 +1,9 @@
 # sales_Insight
 
-## Data Exploratory analysis with SQL
+##### AtliQ hardware
+###### AtliQ is a hardware making, which was established in 2017, has successfully developed various hardware like security cameras and computer hardware. The company has sold more than 2 Million products to date.
+
+### Data Exploratory analysis with SQL
 
 #### 1. Show all Customer and Transaction records
 ###### SELECT * FROM sales.customer;
